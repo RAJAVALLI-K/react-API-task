@@ -1,0 +1,26 @@
+.main-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  /* gap:10px; */
+}
+
+.rocket-box {
+  /* display: none; */
+  width: 30%;
+}
+
+.wikipedia {
+  text-decoration: none !important;
+}
+
+h1 {
+  text-align: center;
+  margin: 10px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
